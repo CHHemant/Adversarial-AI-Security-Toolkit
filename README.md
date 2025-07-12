@@ -45,7 +45,7 @@ This project is intended for educational and research purposes to raise awarenes
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/adversarial-ai-toolkit.git
+git clone https://github.com/CHHemant/adversarial-ai-toolkit.git
 cd adversarial-ai-toolkit
 ```
 
